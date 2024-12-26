@@ -78,3 +78,5 @@ RegisterNumber:24004969
 
 
 **RESULTS**
+
+Thus the given T flipflop using verilog and validating their functionality using their functional tables are verified.
